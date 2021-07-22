@@ -7,7 +7,7 @@ describe('Test my greet function' , function(){
         });
         it("it should return 'Hello, Baloyi' when called with 'Baloyi'", function(){
        
-            assert.equal("Hello, Baloyi", greet("Baloyi"), "this should not be true");
+            assert.equal("Hello, Baloyi", greet("Baloyi"), );
     
 
     });
